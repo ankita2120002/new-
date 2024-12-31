@@ -1,6 +1,3 @@
-this is a new file
-this is a new creatory
-this is a new another feature
-there are new diretory 
-there is a new document
-there are ways
+this is a main souce 
+there are new feature 1 
+this is a new feature 2
